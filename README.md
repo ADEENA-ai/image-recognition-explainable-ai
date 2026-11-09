@@ -137,6 +137,11 @@ The notebook follows this workflow:
 
 The dataset is downloaded to the notebook's `./data` directory. A GPU is optional.
 
+## Instructions
+
+Install pachages using
+pip install -r requirements.txt
+
 ## Saving and Loading the Model
 
 The notebook includes code to save the model weights and the breed class names separately. The saved files are:
